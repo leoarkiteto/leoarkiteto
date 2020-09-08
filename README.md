@@ -64,14 +64,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoarkiteto&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/leoarkiteto/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoarkiteto&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/leoarkiteto.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leoarkiteto&repo=leoarkiteto.github.io&theme=radical" />
-</a>
 
 [website]: http://leofranca.com
 [codepen]: https://codepen.io/leoarkiteto
