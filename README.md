@@ -17,7 +17,7 @@
 ### Connect with me:
 
 [<img align="left" alt="leoarkiteto.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="leoarkiteto | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][twitter]
+[<img align="left" alt="leoarkiteto | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 [<img align="left" alt="leoarkiteto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="leoarkiteto | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -57,9 +57,8 @@
 </a>
 
 
-[website]: http://leofranca.com
+[website]: http://leofranca.tech
 [codepen]: https://codepen.io/leoarkiteto
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/leofranca777
 [linkedin]: https://linkedin.com/in/leofrancadev
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
