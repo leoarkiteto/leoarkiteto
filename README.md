@@ -9,9 +9,9 @@
 ## I'm a Frontend, Designer and Gamer!
 
 - 🔭 I’m currently working on my [Portifolio][website]!
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m a Laravel enthusiast (at least I try to be)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a Jedi!!!
 
 ### Connect with me:
